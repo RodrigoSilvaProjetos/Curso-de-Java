@@ -9,8 +9,5 @@ public class tipos_primitivos {
         char character = 'a';//para caracteres 8 bits
         var character_string = "a";//para o tipos string
         var tipo = true;//vedadeiro
-
-
-
     }
 }
